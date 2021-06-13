@@ -24,5 +24,7 @@ git clone https://github.com/matcarvalho/whatsappbot-selenium.git
 import Whatsappbot
 
 test = Whatsappbot()
+
 test.send_message("Lucas","Hi, your tracking code is 12312")
+
 test.delete_message("Lucas") -> Will delete the last message
