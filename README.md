@@ -1,4 +1,4 @@
-# whatsappbot-selenium
+# Whatsappbot-selenium
 
 ## Getting Started
 #### Dependencies
